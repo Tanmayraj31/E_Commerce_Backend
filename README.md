@@ -186,7 +186,6 @@ This project was designed, developed, and tested over **3 weeks**, focusing on l
 ## 👨‍💻 Author
 
 **Tanmay Raj**
-Backend Developer | Node.js | MongoDB | Express.js
 📧 https://www.linkedin.com/in/tanmay-raj-a2568024b/
 
 ---
