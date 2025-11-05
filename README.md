@@ -186,7 +186,7 @@ This project was designed, developed, and tested over **3 weeks**, focusing on l
 ## 👨‍💻 Author
 
 **Tanmay Raj**
-📧 https://www.linkedin.com/in/tanmay-raj-a2568024b/
+📧 https://www.linkedin.com/in/tanmay-raj-a2568024b/ 
 
 ---
 
